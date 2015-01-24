@@ -1,8 +1,31 @@
-require 'nokokgiri'
+require 'nokogiri'
 require 'open-uri'
 
-ign_html = open('http://www.ign.com/games/reviews')
+class IgnNokogiri
+  attr_accessor :games
 
-ign = Nokogiri::HTML(ign_html)
+  def initialize
+    @games = []
+    html = open("http://www.ign.com/games/reviews")
 
-puts ign.css ('.item-title')
+    @ign = Nokogiri::HTML(html)
+    self.scrapegame
+  end
+    # scrapegame
+
+
+  def scrapegame
+    @ign.css(".item-title").each do |game|
+      @games << game.children.children.children.text.strip
+    end
+    @games
+  end
+
+end
+
+
+game = IgnNokogiri.new
+game.scrapegame
+
+puts game.games
+
