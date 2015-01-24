@@ -18,8 +18,8 @@ response = Unirest.post "https://byroredux-metacritic.p.mashape.com/find/game",
 
 
 
-  {
-  platforms: {
+  
+  platforms= {
     "1" => "PlayStation 3",
     "2" => "Xbox 360",
     "3" => "PC",
@@ -37,8 +37,8 @@ response = Unirest.post "https://byroredux-metacritic.p.mashape.com/find/game",
     "16" => "3DS",
     "67365" => "PlayStation Vita",
     "68410" => "Wii U"
-  },
-  genres: {
+     } 
+  genres= {
     "action" => "Action",
     "adventure" => "Adventure",
     "fighting" => "Fighting Games",
@@ -46,4 +46,5 @@ response = Unirest.post "https://byroredux-metacritic.p.mashape.com/find/game",
     "flight" => "Flight/Flying",
     "party" => "Party",
     "platformer" => "Platformer",
-    "puzzle" => "Puzzle"}
+    "puzzle" => "Puzzle"
+    }
