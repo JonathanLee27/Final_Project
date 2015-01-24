@@ -9,7 +9,7 @@ response = Unirest.post "https://byroredux-metacritic.p.mashape.com/find/game",
   parameters:{
     "platform" => 2,
     "retry" => 4,
-    "title" => "halo 3"
+    "title" => "Halo 3"
   }
 
   
@@ -47,4 +47,4 @@ response = Unirest.post "https://byroredux-metacritic.p.mashape.com/find/game",
     "party" => "Party",
     "platformer" => "Platformer",
     "puzzle" => "Puzzle"
-    }
+      }
