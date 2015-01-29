@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,13 +17,17 @@
        <![endif]-->
   </head>
   <body>
-   <div class="container">
+
+
+<% @games.each do |game| %>
+
   <!-- MAKE SURE EVERYTHING YOU WANT FOR YOUR BODY GOES INSIDE THIS TAG! -->
-  <div class="jumbotron">
-    <h1>Game App</h1>
-    <img src="http://onsightpublicaffairs.com/media/wp-content/uploads/2012/02/narwhal1.png" alt="Narwhal" class="img-circle">
+   <div class="container">
+    <div class="jumbotron">
+     <h1>Game App</h1>
+      <img src="http://onsightpublicaffairs.com/media/wp-content/uploads/2012/02/narwhal1.png" alt="Narwhal" class="img-circle">
     <ul>
-    <p><a href="index2.html"><li></li></a></p>
+     <p><a href="index2.html"><li></li></a></p>
     </ul>
   </div>
 

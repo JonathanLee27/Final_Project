@@ -1,47 +1,51 @@
 require 'nokogiri'
 require 'open-uri'
-require 'pry'
 
-class IgnNokogiri
+
+class ScrapeGames
   attr_accessor :games, :ratings
 
   def initialize
-    @games = []
-    @ratings =[]
-    @games_hash = {}
     html = open("http://www.ign.com/games/reviews")
-
     @ign = Nokogiri::HTML(html)
-    self.scrapegame
-  end
-    # scrapegame
-
-
-  def scrapegame
-    @ign.css(".item-title").each do |game|
-      @games << game.children.children.children.text.strip
-    end
-    @games
   end
 
-  def scrape_rating
-    @ign.css(".scoreBox").each do |game|
-      @ratings << game.children.children.children.text
-    end
-       binding.pry
+  def scrape_data
+      all_games ={}
+      @ign.css(".itemList-item").each do |game|
+          title= game.children.children.children.children.children[0].text.strip
+          all_games[title]= {
+            :console => game.children.children.children.children.children[1].text,
+            :rating => game.children.children.children.children.children[6].text,
+            :image => game.children.children.children[1].attributes["src"].value
+          } 
+      end
+      all_games
   end
-   
-  def create_hash
-    @games.each_with_index do |title, index|
-      @games_hash[title] = @ratings[index]
+
+  
+end
+
+
+class Game
+  attr_accessor :title, :rating, :console, :image
+  ALL = []
+  def self.all
+    ALL
+  end 
+
+  def self.create_games
+    instance_of_scraper_class= ScrapeGames.new
+    instance_of_scraper_class.scrape_data.each do |title, data_hash|
+       game = Game.new
+       game.title = title
+       game.console = data_hash[:console]
+       game.rating = data_hash[:rating]
+       game.image = data_hash[:image] 
+       ALL << game
     end
   end
 end
 
 
-game = IgnNokogiri.new
-game.scrapegame
-game.scrape_rating
-# puts game.games
-# puts game.ratings
 
