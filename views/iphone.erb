@@ -1,0 +1,7 @@
+<h1> Here are the iPhone games! </h1>
+
+<% @iphone_games.each do |game| %>
+  <h2> <%= game.title %> </h2>
+  <h3> <%= game.rating %> </h3>
+  <img src="<%= game.image %>" alt="game">
+  <% end %>

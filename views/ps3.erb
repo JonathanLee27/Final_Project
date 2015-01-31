@@ -1,0 +1,7 @@
+<h1> Here are the PlayStation 3 games! </h1>
+
+<% @ps3_games.each do |game| %>
+  <h2> <%= game.title %> </h2>
+  <h3> <%= game.rating %> </h3>
+  <img src="<%= game.image %>" alt="game">
+  <% end %>
