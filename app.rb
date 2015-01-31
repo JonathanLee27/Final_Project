@@ -9,13 +9,9 @@ class MyApp < Sinatra::Base
       Game.create_games
       @games = Game.all
       erb :index
-<<<<<<< HEAD
-    end
-  
-=======
   end
+  
 
->>>>>>> 4284dae29eaeb80889f77177753b0170bd40f57e
     
 
 
