@@ -9,7 +9,8 @@ class MyApp < Sinatra::Base
       Game.create_games
       @games = Game.all
       erb :index
-  end
+    end
+  
     
 
 

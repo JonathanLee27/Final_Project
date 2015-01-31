@@ -6,33 +6,74 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Game App</title>
+    <title>Lastest Games App</title>
    
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
    <link rel="stylesheet" type="text/css" href="styles.css">
+  
 
-   <!--[if lt IE 9]>
-         <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-       <![endif]-->
+       <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+       <script src="javascript.js"></script>
+        
   </head>
   <body>
 
 
-<% @games.each do |game| %>
-
   <!-- MAKE SURE EVERYTHING YOU WANT FOR YOUR BODY GOES INSIDE THIS TAG! -->
    <div class="container">
     <div class="jumbotron">
-     <h1>Game App</h1>
-      <img src="http://onsightpublicaffairs.com/media/wp-content/uploads/2012/02/narwhal1.png" alt="Narwhal" class="img-circle">
+     <h1>Lastest Games App</h1>
+      <img src="http://www.nintendo.com/images/page/3ds/built-in-software/nav-icon-included-games.png">
     <ul>
      <p><a href="index2.html"><li></li></a></p>
     </ul>
   </div>
 
+  <div class="row">
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+
+      <img class="thumbpic1" src="http://news.xbox.com/~/media/images/media%20assets/event%20assets/may%2021%20press%20kit/hardware%20and%20accessories/hero%20shots/xbox_consle_sensr_controllr_f_transbg_rgb_2013.png?h=648&w=940" alt="Xbox One">
+
+        <div class="caption">
+          <h3>Xbox One</h3>
+          <p> <button id="More" type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="What else is there to learn?" data-content="It's gummies how hard can it be. Unless your looking for the nutritional facts in which case leave...NOW!!!! ">Learn More</button></p>
+           <p>View most recent reviews</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+
+      <img class="thumbpic2" src="https://cdn02.nintendo-europe.com/media/images/08_content_images/systems_5/wiiu_12/hardware_features/packs/CI16_WiiU_Black_image600w.png" alt="Wii U">
+
+        <div class="caption">
+          <h3>Wii U</h3>
+          <p> <button id="More1" type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="What else is there to learn?" data-content="It's gummies how hard can it be. Unless your looking for the nutritional facts in which case leave...NOW!!!! ">Learn More</button></p>
+
+          <p>View most recent reviews</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+
+      <img class="thumbpic2" src="http://s24.postimg.org/otfuljan9/ps4.png" alt="PS4">
+        <div class="caption">
+          <h3>PlayStation 4</h3>
+          <p>...</p>
+         <p> <button id="More2" type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="What else is there to learn?" data-content="It's gummies how hard can it be. Unless your looking for the nutritional facts in which case leave...NOW!!!! ">Learn More</button></p>
+          <p>View most recent reviews</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="footer">
-    <p>Copyright©</p>
+    <p>Copyright© Kevin Cayambe Jonathan Lee 2015</p>
   </div>
 
 

@@ -1,0 +1,1965 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <!-- Optimizely -->
+<script src="//cdn.optimizely.com/js/2953003.js"></script>
+
+    <title>Game Reviews at IGN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="IGN has expert reviews for the latest Games." />
+<meta name="robots" content="noodp, noydir" />
+<meta name="copyright" content="IGN Entertainment, Inc." />
+<link rel="canonical" href="http://www.ign.com/games/reviews" />
+    <meta name="zdid" content="1a272eb8" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@IGN">
+<meta property="og:image" content="http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg" />
+<meta property="og:site_name" content="IGN" />
+<meta property="fb:app_id" content="115982828429116" />
+
+
+
+    
+    <link href="http://oystatic.ignimgs.com/cache/css/d6/08/d608900cf05195fafd19685a7a42fca3.css" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+                <link rel="stylesheet" type="text/css" href="http://oystatic.ignimgs.com/src/core/css/lib/ie.css"/>
+            <![endif]-->
+    <link rel="shortcut icon" type="image/x-icon" href="http://media.ignimgs.com/media/ign/favicon.ico"/>
+    <link rel="apple-touch-icon" type="image/png" href="http://media.ignimgs.com/media/ign/apple-touch-icon.png"/>
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            gads.src = 'http://www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- Neon Labs -->
+    <script type="text/javascript" src="http://cdn.neon-lab.com/neonoptimizer_2089095449.js"></script>
+            <script>
+        var IGN = IGN || {};
+        IGN.pagetype = "section";
+    </script>
+    <script type="text/javascript" src="http://oystatic.ignimgs.com/cache/js/14/33/14336a0506459ce16cdc47ed622662e1.js"></script><script type="text/javascript">$j=jQuery;</script><script>
+    var igndrones = igndrones || {};
+    igndrones.async = igndrones.async || [];
+    igndrones.async.push(function() {
+        igndrones.init({"buyerbase":[],"chartbeat":{"uid":"21105","domain":"ign.com","sections":"Desktop Web,games"},"comscore":{"c2":"3000068"},"ga":{"account_number":"UA-23541058-1","_setDomainName":".ign.com","custom_vars":[[1,"pagetype","section",3],[12,"categories","games",3],[13,"tags","reviews",3],[15,"action","reviews",3],[16,"controller","index",3],[17,"module","default",3],[18,"resource","games",3],[20,"is-community","no",3],[21,"signed-in","no",2],[22,"subscriber","no",1]]},"spotxchange":{"advertiserId":"6600","tagId":"9268"}});
+    igndrones.fireTop();    });
+</script>
+</head>
+
+<body><script>SugarAds.adsData = {"adsDisabled":"false","dfp_network":"5691","dfp_adunit1":"IGN","resource":"games","pagetype":"section","categories":["games"],"tags":["reviews"],"zdid":"1a272eb8"};SugarAds.renderAds(["prestitial","728x90","300x250","s728x90"]);</script>
+
+<div id="sugarad-1x1">
+    <script type='text/javascript'> googletag.cmd.push(function() { googletag.display('sugarad-1x1');});</script>
+</div>
+<div id="stitialV2">
+    <div id="stitialV2-navigation-block" onclick="SugarAds.dfp._stitialClose()">
+        <div id="stitialV2-header">
+            <div id="logo">
+              <span class="logoLink"></span>
+            </div>
+            <a id="stitialV2-welcomeLink">
+                <span style="font-weight:bold;"></span>
+                <span></span>
+            </a>
+            <img src="http://ads.ign.com/stitial2.0/arrow.2x.png">
+        </div>
+    </div>
+    <div id="stitialV2-fuse">
+        <span id="stitialV2-fuseWire"></span>
+    </div>
+    <div id="stitialV2-overlay">
+        <div id="stitialV2-close" onclick="SugarAds.dfp._stitialClose()">x</div>
+    </div>
+    <div id="stitialV2-wrapper">
+        <div id="stitialV2-creative">
+
+        </div>
+    </div>
+</div>
+<header id="ign-header">
+    
+    <div id="header-container" class="spine">
+                    <!-- Global Spine -->
+            <div id="header-spine">
+                <div class="locale-selector-container">
+    <div class="locale-dropdown-bg ign-modal hidden">
+        <div class="button-close">&#215;</div><!-- multiplication symbol (×) -->
+        <div class="locale-dropdown-container">
+            <ul class="locale-dropdown"></ul>
+        </div>
+    </div>
+</div>
+
+                <div class="locale-shortcode" data-hover-text="edition">us</div>
+                <a href="http://www.ign.com" id="ign-logo"></a>
+                    <div id="spine-container" class="horizontal">
+        <div class='cover-card has-image'>
+                        <a href="http://www.ign.com/articles/2015/01/07/hot-games-of-2015-everything-you-need-to-know-ign-first">
+                <div class="tile content has-label">
+                    <p class="label">Hot Games of 2015</p>
+                    <div class="title">Everything You Need To Know</div>
+                </div>
+                <div class="tile image-tile">
+                                            <img src="http://assets2.ignimgs.com/2015/01/26/hgo-thumbpng-56e812_450h.png" class="image type-other" alt="" />
+                                    </div>
+            </a>
+            </div>
+<a class="queue-item promoted hidden" id="promoted-spine-dfp-container" href="">
+    <div id="sugarad-3x3" class="sugarad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('sugarad-3x3');});</script></div></a>
+    <a class="queue-item tile content trending" href="http://www.ign.com/articles/2015/01/31/how-world-of-warcraft-got-its-groove-back">
+                                <div class="title spine-padding">How World of Warcraft Got Its Groove Back</div>
+            </a>
+    <a class="queue-item tile content trending" href="http://www.ign.com/articles/2015/01/27/dying-light-review">
+                                <div class="title spine-padding">Dying Light Review in Progress</div>
+            </a>
+    <a class="queue-item tile content trending" href="http://www.ign.com/articles/2015/01/30/check-out-the-official-game-of-thrones-season-5-trailer">
+                                <div class="title spine-padding">Check out The Official Game of Thrones Season 5 Trailer!</div>
+            </a>
+    <a class="queue-item tile content trending" href="http://www.ign.com/articles/2015/01/28/flash-producer-spills-on-reverse-flash-secrets-time-travel-speed-force-and-more">
+                                <div class="title spine-padding">7 Things You Need to Know About What's Ahead for The Flash</div>
+            </a>
+    </div>
+            </div>
+                <!-- Global Navigation Bar -->
+        <div id="header-nav" class="spine fixed global">
+
+                            <div class="browse">
+                    <a href="http://www.ign.com" class="dpad-container"></a>
+                    <div id="browse-button">
+                        <div class='browse-label'>Browse</div>
+                        <div id="browse-dropdown">
+                                                            <ul id="browse-gaming" class="browse-category">
+                                                                            <li><a href="http://www.ign.com/xbox-one">Xbox One</a></li>
+                                                                            <li><a href="http://www.ign.com/xbox-360">Xbox 360</a></li>
+                                                                            <li><a href="http://www.ign.com/ps4">PS4</a></li>
+                                                                            <li><a href="http://www.ign.com/ps3">PS3</a></li>
+                                                                            <li><a href="http://www.ign.com/ps-vita">Vita</a></li>
+                                                                            <li><a href="http://www.ign.com/wii-u">Wii U</a></li>
+                                                                            <li><a href="http://www.ign.com/ds">3DS</a></li>
+                                                                            <li><a href="http://www.ign.com/pc">PC</a></li>
+                                                                            <li><a href="http://www.ign.com/wireless">Mobile</a></li>
+                                                                    </ul>
+                                                            <ul id="browse-entertainment" class="browse-category">
+                                                                            <li><a href="http://www.ign.com/movies">Movies</a></li>
+                                                                            <li><a href="http://www.ign.com/tv">TV</a></li>
+                                                                            <li><a href="http://www.ign.com/tech">Tech</a></li>
+                                                                            <li><a href="http://www.ign.com/comics">Comics</a></li>
+                                                                    </ul>
+                                                            <ul id="browse-more" class="browse-category">
+                                                                            <li><a href="http://www.ign.com/reviews">Reviews</a></li>
+                                                                            <li><a href="http://www.ign.com/games/upcoming">Upcoming</a></li>
+                                                                            <li><a href="http://www.ign.com/videos">Videos</a></li>
+                                                                            <li><a href="http://www.ign.com/wikis">Wikis + Cheats</a></li>
+                                                                            <li><a href="http://www.ign.com/podcasts">Podcasts</a></li>
+                                                                            <li><a href="http://www.ign.com/boards">Boards</a></li>
+                                                                            <li><a href="http://www.ign.com/blogs">Blogs</a></li>
+                                                                    </ul>
+                                                    </div>
+                    </div>
+                    <div class="search-container">
+                        <input id="search-input" type="text" maxlength="60" placeholder="Search" name="query" autocomplete="off" />
+                        <div id="search-button"></div>
+                    </div>
+                </div>
+
+            
+            <div class="popular-links">
+                                                    <a href="http://www.ign.com/videos?filter=games-trailer">Trailers</a>
+                                    <a href="http://www.ign.com/games/reviews">Reviews</a>
+                                    <a href="http://www.ign.com/ps4">PS4</a>
+                                    <a href="http://www.ign.com/xbox-one">Xbox One</a>
+                                    <a href="http://www.ign.com/pc">PC</a>
+                                    <a href="http://www.ign.com/wii-u">Wii U</a>
+                                    <a href="http://www.ign.com/movies">Movies</a>
+                                    <a href="http://www.ign.com/tv">TV</a>
+                            </div>
+            <div id="user-tools-container"></div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+  var GlobalHeaderOptions = {
+    renderDomain : "widgets.ign.com",
+    enable_ssl : false  };
+</script>
+
+
+</header>
+
+<div class="preShell">
+    <div class="ad_placement ad_leaderboard noprint">
+        <div id="sugarad-728x90" class="sugarad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('sugarad-728x90');});</script></div>    </div>
+    
+    </div>
+<div class="shell container-content-main ">
+    <div class="inc-vertNav">
+            </div>
+    <div class="container_24 clear">
+	<div class="grid_16">
+		<h1 class="subheader_24"> Game Reviews</h1>
+
+		<div class="grid_15 alpha">
+			<hr style="margin-top: 12px; margin-left: 7px; width: 598px;" />
+		</div>
+		<div id="review-indices" class="grid_16 alpha">
+			<ul>
+				<li><a href="http://www.ign.com/games/reviews">Game Reviews</a></li>
+				<li><a href="http://www.ign.com/movies/reviews">Movie Reviews</a></li>
+				<li><a href="http://www.ign.com/tv/reviews">TV Reviews</a></li>
+				<li><a href="http://www.ign.com/comics/reviews">Comic Reviews</a></li>
+			</ul>
+		</div>
+		        <div id="review-filters" class="grid_16 alpha">
+			<div class="grid_10">
+								<select data-placeholder="Filter by Platform and Genre" class="chzn-select" multiple style="width:343px; height: 50px; display:none; float:left" tabindex="2">
+					<option value=""></option>
+										<optgroup label="Platform">
+												<option id="platformSlug-xbox-360" class="platformSlug" data-num="0" data-group="platformSlug" data-sel="platformSlug-xbox-360" value="xbox-360">Xbox 360</option>
+												<option id="platformSlug-xbox-one" class="platformSlug" data-num="1" data-group="platformSlug" data-sel="platformSlug-xbox-one" value="xbox-one">Xbox One</option>
+												<option id="platformSlug-ps3" class="platformSlug" data-num="2" data-group="platformSlug" data-sel="platformSlug-ps3" value="ps3">PS3</option>
+												<option id="platformSlug-ps4" class="platformSlug" data-num="3" data-group="platformSlug" data-sel="platformSlug-ps4" value="ps4">PS4</option>
+												<option id="platformSlug-pc" class="platformSlug" data-num="4" data-group="platformSlug" data-sel="platformSlug-pc" value="pc">PC</option>
+												<option id="platformSlug-wii" class="platformSlug" data-num="5" data-group="platformSlug" data-sel="platformSlug-wii" value="wii">Wii</option>
+												<option id="platformSlug-wii-u" class="platformSlug" data-num="6" data-group="platformSlug" data-sel="platformSlug-wii-u" value="wii-u">Wii U</option>
+												<option id="platformSlug-3ds" class="platformSlug" data-num="7" data-group="platformSlug" data-sel="platformSlug-3ds" value="3ds">3DS</option>
+												<option id="platformSlug-new-nintendo-3ds" class="platformSlug" data-num="8" data-group="platformSlug" data-sel="platformSlug-new-nintendo-3ds" value="new-nintendo-3ds">New 3DS</option>
+												<option id="platformSlug-nds" class="platformSlug" data-num="9" data-group="platformSlug" data-sel="platformSlug-nds" value="nds">DS</option>
+												<option id="platformSlug-vita" class="platformSlug" data-num="10" data-group="platformSlug" data-sel="platformSlug-vita" value="vita">Vita</option>
+												<option id="platformSlug-psp" class="platformSlug" data-num="11" data-group="platformSlug" data-sel="platformSlug-psp" value="psp">PSP</option>
+												<option id="platformSlug-iphone" class="platformSlug" data-num="12" data-group="platformSlug" data-sel="platformSlug-iphone" value="iphone">iPhone</option>
+												<option id="platformSlug-ipad" class="platformSlug" data-num="13" data-group="platformSlug" data-sel="platformSlug-ipad" value="ipad">iPad</option>
+												<option id="platformSlug-android" class="platformSlug" data-num="14" data-group="platformSlug" data-sel="platformSlug-android" value="android">Android</option>
+												<option id="platformSlug-xbox" class="platformSlug" data-num="15" data-group="platformSlug" data-sel="platformSlug-xbox" value="xbox">Xbox</option>
+												<option id="platformSlug-gb" class="platformSlug" data-num="16" data-group="platformSlug" data-sel="platformSlug-gb" value="gb">Game Boy</option>
+												<option id="platformSlug-gba-gb" class="platformSlug" data-num="17" data-group="platformSlug" data-sel="platformSlug-gba,gb" value="gba,gb">Game Boy Advance</option>
+												<option id="platformSlug-n64" class="platformSlug" data-num="18" data-group="platformSlug" data-sel="platformSlug-n64" value="n64">Nintendo 64</option>
+												<option id="platformSlug-mac" class="platformSlug" data-num="19" data-group="platformSlug" data-sel="platformSlug-mac" value="mac">Mac</option>
+												<option id="platformSlug-gcn" class="platformSlug" data-num="20" data-group="platformSlug" data-sel="platformSlug-gcn" value="gcn">GameCube</option>
+												<option id="platformSlug-dc" class="platformSlug" data-num="21" data-group="platformSlug" data-sel="platformSlug-dc" value="dc">Dreamcast</option>
+												<option id="platformSlug-ps" class="platformSlug" data-num="22" data-group="platformSlug" data-sel="platformSlug-ps" value="ps">PlayStation</option>
+												<option id="platformSlug-ps2" class="platformSlug" data-num="23" data-group="platformSlug" data-sel="platformSlug-ps2" value="ps2">PlayStation 2</option>
+												<option id="platformSlug-nng" class="platformSlug" data-num="24" data-group="platformSlug" data-sel="platformSlug-nng" value="nng">N-Gage</option>
+											</optgroup>
+										<optgroup label="Genre">
+												<option id="genre-action" class="genre" data-num="25" data-group="genre" data-sel="genre-action" value="action">Action</option>
+												<option id="genre-adventure" class="genre" data-num="26" data-group="genre" data-sel="genre-adventure" value="adventure">Adventure</option>
+												<option id="genre-battle" class="genre" data-num="27" data-group="genre" data-sel="genre-battle" value="battle">Battle</option>
+												<option id="genre-board" class="genre" data-num="28" data-group="genre" data-sel="genre-board" value="board">Board</option>
+												<option id="genre-card" class="genre" data-num="29" data-group="genre" data-sel="genre-card" value="card">Card</option>
+												<option id="genre-casino" class="genre" data-num="30" data-group="genre" data-sel="genre-casino" value="casino">Casino</option>
+												<option id="genre-compilation" class="genre" data-num="31" data-group="genre" data-sel="genre-compilation" value="compilation">Compilation</option>
+												<option id="genre-educational" class="genre" data-num="32" data-group="genre" data-sel="genre-educational" value="educational">Educational</option>
+												<option id="genre-fighting" class="genre" data-num="33" data-group="genre" data-sel="genre-fighting" value="fighting">Fighting</option>
+												<option id="genre-flight" class="genre" data-num="34" data-group="genre" data-sel="genre-flight" value="flight">Flight</option>
+												<option id="genre-hunting" class="genre" data-num="35" data-group="genre" data-sel="genre-hunting" value="hunting">Hunting</option>
+												<option id="genre-music" class="genre" data-num="36" data-group="genre" data-sel="genre-music" value="music">Music</option>
+												<option id="genre-other" class="genre" data-num="37" data-group="genre" data-sel="genre-other" value="other">Other</option>
+												<option id="genre-pinball" class="genre" data-num="38" data-group="genre" data-sel="genre-pinball" value="pinball">Pinball</option>
+												<option id="genre-platformer" class="genre" data-num="39" data-group="genre" data-sel="genre-platformer" value="platformer">Platformer</option>
+												<option id="genre-party" class="genre" data-num="40" data-group="genre" data-sel="genre-party" value="party">Party</option>
+												<option id="genre-productivity" class="genre" data-num="41" data-group="genre" data-sel="genre-productivity" value="productivity">Productivity</option>
+												<option id="genre-puzzle" class="genre" data-num="42" data-group="genre" data-sel="genre-puzzle" value="puzzle">Puzzle</option>
+												<option id="genre-rpg" class="genre" data-num="43" data-group="genre" data-sel="genre-rpg" value="rpg">RPG</option>
+												<option id="genre-racing" class="genre" data-num="44" data-group="genre" data-sel="genre-racing" value="racing">Racing</option>
+												<option id="genre-shooter" class="genre" data-num="45" data-group="genre" data-sel="genre-shooter" value="shooter">Shooter</option>
+												<option id="genre-simulation" class="genre" data-num="46" data-group="genre" data-sel="genre-simulation" value="simulation">Simulation</option>
+												<option id="genre-sports" class="genre" data-num="47" data-group="genre" data-sel="genre-sports" value="sports">Sports</option>
+												<option id="genre-strategy" class="genre" data-num="48" data-group="genre" data-sel="genre-strategy" value="strategy">Strategy</option>
+												<option id="genre-trivia" class="genre" data-num="49" data-group="genre" data-sel="genre-trivia" value="trivia">Trivia</option>
+												<option id="genre-virtual-pet" class="genre" data-num="50" data-group="genre" data-sel="genre-virtual-pet" value="virtual-pet">Virtual Pet</option>
+												<option id="genre-wrestling" class="genre" data-num="51" data-group="genre" data-sel="genre-wrestling" value="wrestling">Wrestling</option>
+											</optgroup>
+									</select>
+
+				<div id="filter-submit" data-url="reviews-ajax" data-sortBy="reviewDate" data-sortOrder="desc" data-defaultSortOrder="desc" data-defaultSortBy="reviewDate" class="refresh-icon"></div>
+
+				<div class="filter-quick-links grid_12">
+					Try:
+											<a href="#" data-slug="xbox-360" data-group="platformSlug">Xbox 360</a>,
+											<a href="#" data-slug="ps3" data-group="platformSlug">PS3</a>,
+											<a href="#" data-slug="action" data-group="genre">Action</a>,
+											<a href="#" data-slug="shooter" data-group="genre">Shooter</a>,
+											<a href="#" data-slug="rpg" data-group="genre">RPG</a>,
+										<a id="show-all-filters" class="toggle-filters" href="#" >More...</a>
+				</div>
+			</div>
+			<div class="score-container grid_5">
+				<span>MINIMUM SCORE  </span>
+				<div id="min-score-scrubber"></div>
+			</div>
+			<div class="grid_1">
+				<div id="reviewValue">0</div>
+			</div>
+
+			<div class="time-list grid_5">
+
+			<div class="subheader-links">
+					<a id="editors-choice-selector" class="full-filter" data-filter="editorsChoice" data-value="false" href="#">Editor's Choice</a>
+				</div>
+
+
+			<div class="date-filter-container ">
+				| Released:
+				<div id="filters-releaseDropdown">
+					<div id="releaseDropdown" class="dropdown">
+						<span class="dropdown-selected dropdown-arrow">All Time</span>
+						<ul class="dropdown-list">
+							<li><a class="release-filter selected" data-time="all" href="#">All Time</a></li>
+							<li><a class="dropdown-filter " data-time="7d" href="#">7 Days</a></li>
+							<li><a class="dropdown-filter " data-time="1m" href="#">Month</a></li>
+							<li><a class="dropdown-filter " data-time="3m" href="#">3 Months</a></li>
+							<li><a class="dropdown-filter " data-time="6m" href="#">6 Months</a></li>
+							<li><a class="dropdown-filter " data-time="12m" href="#">12 Months</a></li>
+							<li><a class="dropdown-filter " data-time="5y" href="#">5 Years</a></li>
+							<li><a class="dropdown-filter " data-time="range" href="#">Range</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+			<div>
+				<div id="advanced-options-list" class="grid_15 filter-panel">
+					<div class="arrow-up-background"><div class="arrow-up"></div></div>
+					<div class="filter-list-group">
+																		<div class="filter-sub-list">
+							<div class="filter-title">Platform</div>
+							<div id="filter-group-Platform" class="filter-list first">
+																<a href="#" id="filter0" class="filter" data-num="0" data-slug="xbox-360" data-group="platformSlug">Xbox 360</a>
+																<a href="#" id="filter1" class="filter" data-num="1" data-slug="xbox-one" data-group="platformSlug">Xbox One</a>
+																<a href="#" id="filter2" class="filter" data-num="2" data-slug="ps3" data-group="platformSlug">PS3</a>
+																<a href="#" id="filter3" class="filter" data-num="3" data-slug="ps4" data-group="platformSlug">PS4</a>
+																<a href="#" id="filter4" class="filter" data-num="4" data-slug="pc" data-group="platformSlug">PC</a>
+																<a href="#" id="filter5" class="filter" data-num="5" data-slug="wii" data-group="platformSlug">Wii</a>
+																<a href="#" id="filter6" class="filter" data-num="6" data-slug="wii-u" data-group="platformSlug">Wii U</a>
+																<a href="#" id="filter7" class="filter" data-num="7" data-slug="3ds" data-group="platformSlug">3DS</a>
+																<a href="#" id="filter8" class="filter" data-num="8" data-slug="new-nintendo-3ds" data-group="platformSlug">New 3DS</a>
+																<a href="#" id="filter9" class="filter" data-num="9" data-slug="nds" data-group="platformSlug">DS</a>
+																<a href="#" id="filter10" class="filter" data-num="10" data-slug="vita" data-group="platformSlug">Vita</a>
+																<a href="#" id="filter11" class="filter" data-num="11" data-slug="psp" data-group="platformSlug">PSP</a>
+																<a href="#" id="filter12" class="filter" data-num="12" data-slug="iphone" data-group="platformSlug">iPhone</a>
+																<a href="#" id="filter13" class="filter" data-num="13" data-slug="ipad" data-group="platformSlug">iPad</a>
+								                                    	</div>
+										</div>
+										<div class="filter-sub-list">
+											<div class="filter-title"></div>
+											<div id="filter-group-Platform" class="filter-list first">
+
+
+                                    								<a href="#" id="filter14" class="filter" data-num="14" data-slug="android" data-group="platformSlug">Android</a>
+																<a href="#" id="filter15" class="filter" data-num="15" data-slug="xbox" data-group="platformSlug">Xbox</a>
+																<a href="#" id="filter16" class="filter" data-num="16" data-slug="gb" data-group="platformSlug">Game Boy</a>
+																<a href="#" id="filter17" class="filter" data-num="17" data-slug="gba,gb" data-group="platformSlug">Game Boy Advance</a>
+																<a href="#" id="filter18" class="filter" data-num="18" data-slug="n64" data-group="platformSlug">Nintendo 64</a>
+																<a href="#" id="filter19" class="filter" data-num="19" data-slug="mac" data-group="platformSlug">Mac</a>
+																<a href="#" id="filter20" class="filter" data-num="20" data-slug="gcn" data-group="platformSlug">GameCube</a>
+																<a href="#" id="filter21" class="filter" data-num="21" data-slug="dc" data-group="platformSlug">Dreamcast</a>
+																<a href="#" id="filter22" class="filter" data-num="22" data-slug="ps" data-group="platformSlug">PlayStation</a>
+																<a href="#" id="filter23" class="filter" data-num="23" data-slug="ps2" data-group="platformSlug">PlayStation 2</a>
+																<a href="#" id="filter24" class="filter" data-num="24" data-slug="nng" data-group="platformSlug">N-Gage</a>
+															</div>
+						</div>
+																		<div class="filter-sub-list">
+							<div class="filter-title">Genre</div>
+							<div id="filter-group-Genre" class="filter-list">
+																<a href="#" id="filter25" class="filter" data-num="25" data-slug="action" data-group="genre">Action</a>
+																<a href="#" id="filter26" class="filter" data-num="26" data-slug="adventure" data-group="genre">Adventure</a>
+																<a href="#" id="filter27" class="filter" data-num="27" data-slug="battle" data-group="genre">Battle</a>
+																<a href="#" id="filter28" class="filter" data-num="28" data-slug="board" data-group="genre">Board</a>
+																<a href="#" id="filter29" class="filter" data-num="29" data-slug="card" data-group="genre">Card</a>
+																<a href="#" id="filter30" class="filter" data-num="30" data-slug="casino" data-group="genre">Casino</a>
+																<a href="#" id="filter31" class="filter" data-num="31" data-slug="compilation" data-group="genre">Compilation</a>
+																<a href="#" id="filter32" class="filter" data-num="32" data-slug="educational" data-group="genre">Educational</a>
+																<a href="#" id="filter33" class="filter" data-num="33" data-slug="fighting" data-group="genre">Fighting</a>
+																<a href="#" id="filter34" class="filter" data-num="34" data-slug="flight" data-group="genre">Flight</a>
+																<a href="#" id="filter35" class="filter" data-num="35" data-slug="hunting" data-group="genre">Hunting</a>
+																<a href="#" id="filter36" class="filter" data-num="36" data-slug="music" data-group="genre">Music</a>
+																<a href="#" id="filter37" class="filter" data-num="37" data-slug="other" data-group="genre">Other</a>
+																<a href="#" id="filter38" class="filter" data-num="38" data-slug="pinball" data-group="genre">Pinball</a>
+								                                    	</div>
+										</div>
+										<div class="filter-sub-list">
+											<div class="filter-title"></div>
+											<div id="filter-group-Genre" class="filter-list first">
+
+
+                                    								<a href="#" id="filter39" class="filter" data-num="39" data-slug="platformer" data-group="genre">Platformer</a>
+																<a href="#" id="filter40" class="filter" data-num="40" data-slug="party" data-group="genre">Party</a>
+																<a href="#" id="filter41" class="filter" data-num="41" data-slug="productivity" data-group="genre">Productivity</a>
+																<a href="#" id="filter42" class="filter" data-num="42" data-slug="puzzle" data-group="genre">Puzzle</a>
+																<a href="#" id="filter43" class="filter" data-num="43" data-slug="rpg" data-group="genre">RPG</a>
+																<a href="#" id="filter44" class="filter" data-num="44" data-slug="racing" data-group="genre">Racing</a>
+																<a href="#" id="filter45" class="filter" data-num="45" data-slug="shooter" data-group="genre">Shooter</a>
+																<a href="#" id="filter46" class="filter" data-num="46" data-slug="simulation" data-group="genre">Simulation</a>
+																<a href="#" id="filter47" class="filter" data-num="47" data-slug="sports" data-group="genre">Sports</a>
+																<a href="#" id="filter48" class="filter" data-num="48" data-slug="strategy" data-group="genre">Strategy</a>
+																<a href="#" id="filter49" class="filter" data-num="49" data-slug="trivia" data-group="genre">Trivia</a>
+																<a href="#" id="filter50" class="filter" data-num="50" data-slug="virtual-pet" data-group="genre">Virtual Pet</a>
+																<a href="#" id="filter51" class="filter" data-num="51" data-slug="wrestling" data-group="genre">Wrestling</a>
+															</div>
+						</div>
+																	</div>
+					<div class="filter-buttons"><div id="filter-clear-all" class="filter-button" >Clear All</div><div class="filter-button toggle-filters">Done</div></div>
+				</div>
+			</div>
+		</div>
+	    		<div id="date-range-container">
+			<div id="date-range-scrubber"></div>
+			<div id="date-value" class="date-value"></div>
+		</div>
+		    <div id="item-list" class="grid_16 alpha" data-listtype="review">
+        <div class="itemList-header">
+            <div class="grid_3 alpha">Box Art</div>
+            <div class="grid_7">
+                <a class="sortLink" data-type="title" href="#"> Title
+                <span class="arrowContainer"><span class=""></span></span>
+                </a>
+            </div>
+            <div class="grid_3">
+                <a class="sortLink" data-type="reviewDate" href="#">Review Date
+                <span class="arrowContainer"><span class="arrow desc"></span></span>
+                </a>
+            </div>
+            <div class="grid_3 omega">
+                <a class="sortLink" data-type="score" href="#">IGN Rating
+                <span class="arrowContainer"><span class=""></span></span>
+                </a>
+            </div>
+        </div>
+        <div class="itemList">
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/supreme-league-of-patriots/pc-20031148">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2015/01/30/superleagueofpatriosjpg-2949ae_160h.jpg" alt="Supreme League of Patriots"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/supreme-league-of-patriots/pc-20031148">
+                Supreme League of Patriots            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Adventure            </span>
+             - Don your cape and mask and join the Supreme League of Patriots in this hilarious and irreverent superhero comedy...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/31/supreme-league-of-patriots-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20031148">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/supreme-league-of-patriots-pc-20031148">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20031148" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20031148" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20031148" data-game-id="20031148"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 31, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/31/supreme-league-of-patriots-review">
+                        <span class="scoreBox-score">5.7</span>
+            <span class="scoreBox-scorePhrase">Mediocre</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/the-witcher-battle-arena/iphone-20020912">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2015/01/21/witcher-battle-arena-button-finjpg-647286_160h.jpg" alt="The Witcher Battle Arena"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/the-witcher-battle-arena/iphone-20020912">
+                The Witcher Battle Arena            </a>
+                            <span class="item-platform iphone">iPhone</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Strategy            </span>
+             - A MOBA game based in the Witcher universe and designed with mobile devices in mind, The Witcher Battle Arena...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/28/the-witcher-battle-arena-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20020912">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/the-witcher-battle-arena-iphone-20020912">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20020912" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20020912" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20020912" data-game-id="20020912"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 28, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/28/the-witcher-battle-arena-review">
+                        <span class="scoreBox-score">4.5</span>
+            <span class="scoreBox-scorePhrase">Bad</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/grim-fandango-remastered/ps4-20019804">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/06/11/grim-fandango-button-placeholderjpg-2ea2ea_160h.jpg" alt="Grim Fandango Remastered"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/grim-fandango-remastered/ps4-20019804">
+                Grim Fandango Remastered            </a>
+                            <span class="item-platform ps4">PlayStation 4</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Adventure            </span>
+             - Based on various legends of Mexican folklore, Grim Fandango is packed to the hilt with dancing skeletons, crime,...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/grim-fandango?objectid=20019804">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/grim-fandango-remastered-ps4-20019804">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20019804" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20019804" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20019804" data-game-id="20019804"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 27, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+        <div class="editorsChoice">Editor's Choice</div>        <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review">
+                        <span class="scoreBox-score">9.3</span>
+            <span class="scoreBox-scorePhrase">Amazing</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/grim-fandango-remastered/pc-20021351">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/06/11/grim-fandango-button-placeholderjpg-2ea2ea_160h.jpg" alt="Grim Fandango Remastered"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/grim-fandango-remastered/pc-20021351">
+                Grim Fandango Remastered            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Adventure            </span>
+             - Based on various legends of Mexican folklore, Grim Fandango is packed to the hilt with dancing skeletons, crime,...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/grim-fandango?objectid=20021351">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/grim-fandango-remastered-pc-20021351">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20021351" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20021351" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20021351" data-game-id="20021351"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 27, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+        <div class="editorsChoice">Editor's Choice</div>        <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review">
+                        <span class="scoreBox-score">9.3</span>
+            <span class="scoreBox-scorePhrase">Amazing</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/grim-fandango-remastered/vita-20019805">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/06/11/grim-fandango-button-placeholderjpg-2ea2ea_160h.jpg" alt="Grim Fandango Remastered"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/grim-fandango-remastered/vita-20019805">
+                Grim Fandango Remastered            </a>
+                            <span class="item-platform vita">PlayStation Vita</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Adventure            </span>
+             - Based on various legends of Mexican folklore, Grim Fandango is packed to the hilt with dancing skeletons, crime,...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/grim-fandango?objectid=20019805">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/grim-fandango-remastered-vita-20019805">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20019805" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20019805" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20019805" data-game-id="20019805"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 27, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+        <div class="editorsChoice">Editor's Choice</div>        <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review">
+                        <span class="scoreBox-score">9.3</span>
+            <span class="scoreBox-scorePhrase">Amazing</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/grey-goo/pc-20014601">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/12/09/grey-goo-posterjpg-886a3f_160h.jpg" alt="Grey Goo"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/grey-goo/pc-20014601">
+                Grey Goo            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Strategy            </span>
+             - Grey Goo is a real-time strategy game features three factions -- the Beta, Humans and Goo -- each with its own...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/23/grey-goo-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/grey-goo">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/grey-goo-pc-20014601">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20014601" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20014601" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20014601" data-game-id="20014601"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 23, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/23/grey-goo-review">
+                        <span class="scoreBox-score">7.6</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/citizens-of-earth/pc-163651">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2013/10/10/citizens-of-earth-generaljpg-e954b8_160h.jpg" alt="Citizens of Earth"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/citizens-of-earth/pc-163651">
+                Citizens of Earth            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                RPG            </span>
+             - Citizens of Earth is an RPG that places you in the shoes of the Vice President of the World! The game defies...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/22/citizens-of-earth-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/citizens-of-earth?objectid=163651">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/citizens-of-earth-pc-163651">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="163651" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="163651" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.163651" data-game-id="163651"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 23, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/22/citizens-of-earth-review">
+                        <span class="scoreBox-score">6.5</span>
+            <span class="scoreBox-scorePhrase">Okay</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/citizens-of-earth/ps4-20016070">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2013/10/10/citizens-of-earth-generaljpg-e954b8_160h.jpg" alt="Citizens of Earth"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/citizens-of-earth/ps4-20016070">
+                Citizens of Earth            </a>
+                            <span class="item-platform ps4">PlayStation 4</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                RPG            </span>
+             - Citizens of Earth is an RPG that places you in the shoes of the Vice President of the World! The game defies...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/22/citizens-of-earth-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/citizens-of-earth?objectid=20016070">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/citizens-of-earth-ps4-20016070">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20016070" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20016070" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20016070" data-game-id="20016070"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 23, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/22/citizens-of-earth-review">
+                        <span class="scoreBox-score">6.5</span>
+            <span class="scoreBox-scorePhrase">Okay</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/saints-row-gat-out-of-hell/pc-20023999">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/29/saints-row-gat-out-of-hell-posterjpg-dff51a_160h.jpg" alt="Saints Row IV: Gat Out of Hell"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/saints-row-gat-out-of-hell/pc-20023999">
+                Saints Row IV: Gat Out of Hell            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - In this standalone Saints Row action game Saints Row IV: Gat Out of Hell, players take on the role of Johnny Gat as...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/21/saints-row-iv-gat-out-of-hell-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/saints-row-iv-gat-out-of-hell?objectid=20023999">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/saints-row-gat-out-of-hell-pc-20023999">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20023999" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20023999" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20023999" data-game-id="20023999"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 21, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/21/saints-row-iv-gat-out-of-hell-review">
+                        <span class="scoreBox-score">7</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/resident-evil-remake-hd/ps3-20022677">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/05/resident-evil-remake-buttonjpg-8ddcc5_160h.jpg" alt="Resident Evil"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/resident-evil-remake-hd/ps3-20022677">
+                Resident Evil            </a>
+                            <span class="item-platform ps3">PlayStation 3</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Turn out the lights. Lock the doors....Live the nightmare in Resident Evil.  The award-winning survival horror...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/resident-evil-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/resident-evil">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/resident-evil-remake-hd-ps3-20022677">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20022677" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20022677" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20022677" data-game-id="20022677"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/resident-evil-review">
+                        <span class="scoreBox-score">8</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/resident-evil-remake-hd/pc-20022675">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/05/resident-evil-remake-buttonjpg-8ddcc5_160h.jpg" alt="Resident Evil"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/resident-evil-remake-hd/pc-20022675">
+                Resident Evil            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Turn out the lights. Lock the doors....Live the nightmare in Resident Evil.  The award-winning survival horror...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/resident-evil-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/resident-evil?objectid=20022675">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/resident-evil-remake-hd-pc-20022675">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20022675" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20022675" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20022675" data-game-id="20022675"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/resident-evil-review">
+                        <span class="scoreBox-score">8</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/resident-evil-remake-hd/ps4-20022676">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/05/resident-evil-remake-buttonjpg-8ddcc5_160h.jpg" alt="Resident Evil"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/resident-evil-remake-hd/ps4-20022676">
+                Resident Evil            </a>
+                            <span class="item-platform ps4">PlayStation 4</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Turn out the lights. Lock the doors....Live the nightmare in Resident Evil.  The award-winning survival horror...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/resident-evil-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/resident-evil?objectid=20022676">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/resident-evil-remake-hd-ps4-20022676">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20022676" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20022676" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20022676" data-game-id="20022676"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/resident-evil-review">
+                        <span class="scoreBox-score">8</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/resident-evil-remake-hd/xbox-360-20022678">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/05/resident-evil-remake-buttonjpg-8ddcc5_160h.jpg" alt="Resident Evil"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/resident-evil-remake-hd/xbox-360-20022678">
+                Resident Evil            </a>
+                            <span class="item-platform xbox-360">Xbox 360</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Turn out the lights. Lock the doors....Live the nightmare in Resident Evil.  The award-winning survival horror...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/resident-evil-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/resident-evil?objectid=20022678">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/resident-evil-remake-hd-xbox-360-20022678">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20022678" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20022678" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20022678" data-game-id="20022678"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/resident-evil-review">
+                        <span class="scoreBox-score">8</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/resident-evil-remake-hd/xbox-one-20022679">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/05/resident-evil-remake-buttonjpg-8ddcc5_160h.jpg" alt="Resident Evil"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/resident-evil-remake-hd/xbox-one-20022679">
+                Resident Evil            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Turn out the lights. Lock the doors....Live the nightmare in Resident Evil.  The award-winning survival horror...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/resident-evil-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/resident-evil?objectid=20022679">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/resident-evil-remake-hd-xbox-one-20022679">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20022679" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20022679" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20022679" data-game-id="20022679"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/resident-evil-review">
+                        <span class="scoreBox-score">8</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/saints-row-re-elected/ps4-20024006">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/08/29/saints-row-4-reelected-us-rp-ps4jpg-dff515_160h.jpg" alt="Saints Row IV: Re-Elected"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/saints-row-re-elected/ps4-20024006">
+                Saints Row IV: Re-Elected            </a>
+                            <span class="item-platform ps4">PlayStation 4</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Saints Row IV: Re-Elected is the inaugural entry in this psychotic open-world action series for new-gen consoles....        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/saints-row-4?objectid=20024006">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/saints-row-re-elected-ps4-20024006">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20024006" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20024006" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20024006" data-game-id="20024006"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review">
+                        <span class="scoreBox-score">7.8</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/saints-row-re-elected/xbox-one-20024005">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/08/29/saints-row-4-reelected-us-rp-xonejpg-dff513_160h.jpg" alt="Saints Row IV: Re-Elected"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/saints-row-re-elected/xbox-one-20024005">
+                Saints Row IV: Re-Elected            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Saints Row IV: Re-Elected is the inaugural entry in this psychotic open-world action series for new-gen consoles....        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/saints-row-4?objectid=20024005">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/saints-row-re-elected-xbox-one-20024005">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20024005" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20024005" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20024005" data-game-id="20024005"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 19, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review">
+                        <span class="scoreBox-score">7.8</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/blackguards-2/pc-20020409">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2015/01/29/blackguards-2-buttonjpg-56e8e1_160h.jpg" alt="Blackguards 2"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/blackguards-2/pc-20020409">
+                Blackguards 2            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                RPG            </span>
+             - Set only few years after the story of the first game, but bringing along many changes for the survivors of the...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/16/blackguards-2-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20020409">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/blackguards-2-pc-20020409">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20020409" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20020409" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20020409" data-game-id="20020409"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 16, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/16/blackguards-2-review">
+                        <span class="scoreBox-score">7.8</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/it-draws-a-red-box/xbox-one-20014945">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2014/06/16/idarb-xone-v2jpg-b688f6_160h.jpg" alt="#IDARB"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/it-draws-a-red-box/xbox-one-20014945">
+                #IDARB            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Party            </span>
+             - #IDARB (or "It Draws a Red Box") is a chaotic eight-player eSport jumping jetpack future arena ball game.         </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/13/idarb-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/idarb">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/it-draws-a-red-box-xbox-one-20014945">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20014945" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20014945" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20014945" data-game-id="20014945"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 14, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/13/idarb-review">
+                        <span class="scoreBox-score">7.5</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/assassins-creed-unity-dead-kings/xbox-one-20025475">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/09/26/assassins-creed-unity-dead-kings-button-logojpg-2e4233_160h.jpg" alt="Assassin's Creed Unity -- Dead Kings"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/assassins-creed-unity-dead-kings/xbox-one-20025475">
+                Assassin's Creed Unity -- Dead Kings            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action, Adventure            </span>
+             - Journey from the bloody streets of revolutionary Paris to the troubled city of Saint Denis in Assassin’s Creed...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/12/assassins-creed-unity-dead-kings-dlc-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/assassins-creed-5-unity?objectid=20025475">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/assassins-creed-unity-dead-kings-xbox-one-20025475">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20025475" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20025475" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20025475" data-game-id="20025475"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 13, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/12/assassins-creed-unity-dead-kings-dlc-review">
+                        <span class="scoreBox-score">7.8</span>
+            <span class="scoreBox-scorePhrase">Good</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/funk-of-the-titans/xbox-one-20022973">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2015/01/14/funk-of-titans-buttonjpg-7f7967_160h.jpg" alt="Funk of Titans"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/funk-of-the-titans/xbox-one-20022973">
+                Funk of Titans            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Platformer            </span>
+             - Funk of Titans is a fun fast-paced side-scrolling platformer where you are tasked to defeat the Music Titans in the...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/12/funk-of-titans-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20022973">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/funk-of-the-titans-xbox-one-20022973">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20022973" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20022973" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20022973" data-game-id="20022973"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 12, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/12/funk-of-titans-review">
+                        <span class="scoreBox-score">4</span>
+            <span class="scoreBox-scorePhrase">Bad</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/sunset-overdrive/xbox-one-20000540">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/10/27/sunsetoverdriveoxboxone1jpg-2503f6_160h.jpg" alt="Sunset Overdrive"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/sunset-overdrive/xbox-one-20000540">
+                Sunset Overdrive            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Sunset Overdrive is an always changing, open-world shooter set in the not-so-distant future.        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2014/10/27/sunset-overdrive-review">Review</a></li>                        <li>
+                        <a href="http://www.ign.com/wikis/sunset-overdrive">Guide</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/sunset-overdrive-xbox-one-20000540">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20000540" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20000540" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20000540" data-game-id="20000540"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 12, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2014/10/27/sunset-overdrive-review">
+                        <span class="scoreBox-score">9</span>
+            <span class="scoreBox-scorePhrase">Amazing</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/sunset-overdrive-mystery-of-the-mooil-rig/xbox-one-20029962">
+            <img class="item-boxArt" src="http://assets2.ignimgs.com/2015/01/13/mysteryofthemooilrigjpg-7f78ce_160h.jpg" alt="Sunset Overdrive -- Mystery of the Mooil Rig"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/sunset-overdrive-mystery-of-the-mooil-rig/xbox-one-20029962">
+                Sunset Overdrive -- Mystery of the Mooil Rig            </a>
+                            <span class="item-platform xbox-one">Xbox One</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Action            </span>
+             - Mystery of the Mooil Rig is the first DLC expansion for Insomniac Games' Sunset Overdrive and takes place on an oil...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/12/sunset-overdrive-mystery-of-the-mooil-rig-dlc-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20029962">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/sunset-overdrive-mystery-of-the-mooil-rig-xbox-one-20029962">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20029962" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20029962" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20029962" data-game-id="20029962"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 12, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/12/sunset-overdrive-mystery-of-the-mooil-rig-dlc-review">
+                        <span class="scoreBox-score">8</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/craft-the-world/pc-20029866">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2015/01/10/craftworldjpg-544b52_160h.jpg" alt="Craft the World"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/craft-the-world/pc-20029866">
+                Craft the World            </a>
+                            <span class="item-platform pc">PC</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Strategy            </span>
+             - Craft the World is all about exploring different worlds with a tribe of dwarves under your leadership. It’s a mix...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/09/craft-the-world-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20029866">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/craft-the-world-pc-20029866">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20029866" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20029866" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20029866" data-game-id="20029866"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 10, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/09/craft-the-world-review">
+                        <span class="scoreBox-score">6.2</span>
+            <span class="scoreBox-scorePhrase">Okay</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/super-mega-baseball/ps4-20024968">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/09/17/super-mega-baseball-buttonjpg-20f2a7_160h.jpg" alt="Super Mega Baseball"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/super-mega-baseball/ps4-20024968">
+                Super Mega Baseball            </a>
+                            <span class="item-platform ps4">PlayStation 4</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Sports            </span>
+             - Hammer Longballo and a friendly cast of semi-athletic baseball stars invite you to saddle up on the couch with...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/07/super-mega-baseball-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20024968">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/super-mega-baseball-ps4-20024968">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20024968" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20024968" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20024968" data-game-id="20024968"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 7, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/07/super-mega-baseball-review">
+                        <span class="scoreBox-score">8.1</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <div class="clear itemList-item">
+    <div class="grid_3 alpha">
+                        <a href="/games/super-mega-baseball/ps3-20024969">
+            <img class="item-boxArt" src="http://assets1.ignimgs.com/2014/09/17/super-mega-baseball-buttonjpg-20f2a7_160h.jpg" alt="Super Mega Baseball"/>
+        </a>
+            </div>
+    <div class="up-com grid_7">
+        <div class="item-title">
+            <h3><a href="/games/super-mega-baseball/ps3-20024969">
+                Super Mega Baseball            </a>
+                            <span class="item-platform ps3">PlayStation 3</span></h3>
+                    </div>
+        <p class="item-details">
+            <span class="item-genre">
+                Sports            </span>
+             - Hammer Longballo and a friendly cast of semi-athletic baseball stars invite you to saddle up on the couch with...        </p>
+        <ul class="item-quickLinks clear">
+            <li><a href="http://www.ign.com/articles/2015/01/07/super-mega-baseball-review">Review</a></li>                        <li>
+                        <a href="/wikis/create?objectid=20024969">Create a Wiki</a>
+            </li>
+                                        <li class="last"><a href="/cheats/games/super-mega-baseball-ps3-20024969">Cheats</a></li>
+                    </ul>
+        <a class="zdcse opt-v41" data-affiliate-ign="20024969" style="display:none"><span class="details"><span>%displayPrice%</span> at %seller%</span></a>
+        <a class="zdcse opt-v42" data-affiliate-ign="20024969" style="display:none"><span class="cta">See It</span></a>
+        <div class="myIgnFollowInstance" id="myIgnFollowGamegobid.20024969" data-game-id="20024969"></div>
+    </div>
+    <div class="grid_3">
+        <div>January 7, 2015</div>
+    </div>
+    <div class="releaseDate grid_3 omega">
+                <div class="scoreBox">
+                            <a class="scoreBox-link" href="http://www.ign.com/articles/2015/01/07/super-mega-baseball-review">
+                        <span class="scoreBox-score">8.1</span>
+            <span class="scoreBox-scorePhrase">Great</span>
+                            </a>
+                    </div>
+    </div>
+</div>
+    <a id="is-more-reviews" href="#" data-start="25" data-active="true" class="isMore">See 25 More Games</a>
+        </div>
+    </div>
+	</div>
+	<div class="grid_8">
+		<div class="gh-medRecAd"><div id="sugarad-300x250" class="sugarad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('sugarad-300x250');});</script></div></div>
+				<link href="http://oystatic.ignimgs.com/cache/css/1f/de/1fde0e05375627cde3f176d5296e7e0b.css" media="screen" rel="stylesheet" type="text/css" /><div class="right-col-module">
+    <!-- poilib start -->
+<div class="subHeaderSectionContainer">
+    <span class="subHeaderSection width_4"><h2>Popular Games Coming Soon</h2></span>
+</div>
+<!-- poilib end -->
+    <div class="topgames-module">
+    <div class="games">
+                                                <div class="column-game">
+                
+                <div class="list-count">1</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/grand-theft-auto-v/pc-20593" class="game-title">Grand Theft Auto V</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Mar 24</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">2</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/the-order-1886/ps4-166564" class="game-title">The Order: 1886</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Feb 20</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">3</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/evolve-turtle-rock/ps4-20010960" class="game-title">Evolve</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Feb 10</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">4</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/final-fantasy-type-0-hd/ps4-20019893" class="game-title">Final Fantasy Type-0 HD</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Mar 17</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">5</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/dragon-ball-xenoverse/ps4-20018804" class="game-title">Dragon Ball Xenoverse</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Feb 24</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">6</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/neverwinter/xbox-one-20022400" class="game-title">Neverwinter</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Mar</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">7</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/apotheon/ps4-20017346" class="game-title">Apotheon</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Jan</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">8</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/project-cars/ps4-127029" class="game-title">Project CARS</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Mar 17</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">9</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/games/bloodborne/ps4-20017456" class="game-title">Bloodborne</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Mar 24</div>
+                
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">10</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/13/idarb-review" class="game-title">#IDARB</a>
+                                            </div>
+                </div>
+
+                                <div class="date">Feb</div>
+                
+                            </div>
+            </div>
+                                <a href="http://www.ign.com/games/upcoming" class="view-all-lnk">View All Top Upcoming Games</a>
+            </div>
+</div>
+    <script type="text/javascript">
+        var widget_domain = 'widgets.ign.com';
+    </script>
+
+		<link href="http://oystatic.ignimgs.com/cache/css/1f/de/1fde0e05375627cde3f176d5296e7e0b.css" media="screen" rel="stylesheet" type="text/css" /><div class="right-col-module">
+    <!-- poilib start -->
+<div class="subHeaderSectionContainer">
+    <span class="subHeaderSection width_4"><h2>Popular Games Out Now</h2></span>
+</div>
+<!-- poilib end -->
+    <div class="topgames-module">
+    <div class="games">
+                                                <a href="http://www.ign.com/videos/2015/01/27/grim-fandango-remastered-review" class="video-thumb">
+                    <img src="http://assets1.ignimgs.com/thumbs/userUploaded/2015/1/26/20823568_grimfandango_012615_1280-1422317968209_compact.jpg" />
+                    <div class="play-button"></div>
+                    <div class="video-text out-now">
+                        <div class="video-object-title">Grim Fandango Rem...</div>
+                                                <div><span class="video-object-subtitle">Video Review</span></div>
+                                            </div>
+                </a>
+                <div class="column-game first">
+                
+                <div class="list-count">1</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review" class="game-title">Grim Fandango Remastered</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/26/grim-fandango-remastered-review" class="rating">9.3</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">2</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/19/resident-evil-review" class="game-title">Resident Evil</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/19/resident-evil-review" class="rating">8</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">3</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/12/assassins-creed-unity-dead-kings-dlc-review" class="game-title">Assassin's Creed Unity -- Dead Kings</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/12/assassins-creed-unity-dead-kings-dlc-review" class="rating">7.8</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">4</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/16/blackguards-2-review" class="game-title">Blackguards 2</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/16/blackguards-2-review" class="rating">7.8</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">5</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review" class="game-title">Saints Row IV: Re-Elected</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/19/saints-row-4-re-elected-review" class="rating">7.8</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">6</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/23/grey-goo-review" class="game-title">Grey Goo</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/23/grey-goo-review" class="rating">7.6</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">7</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/21/saints-row-iv-gat-out-of-hell-review" class="game-title">Saints Row IV: Gat Out of Hell</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/21/saints-row-iv-gat-out-of-hell-review" class="rating">7</a>
+                            </div>
+                                                <div class="column-game">
+                
+                <div class="list-count">8</div>
+
+                <div class="game-details narrow">
+                    <div class="game-details-content">
+                            <a href="http://www.ign.com/articles/2015/01/22/citizens-of-earth-review" class="game-title">Citizens of Earth</a>
+                                            </div>
+                </div>
+
+                
+                                    <a href="http://www.ign.com/articles/2015/01/22/citizens-of-earth-review" class="rating">6.5</a>
+                            </div>
+            </div>
+                                <a href="http://www.ign.com/games/reviews" class="view-all-lnk">View All Top Reviews</a>
+            </div>
+</div>
+    <script type="text/javascript">
+        var widget_domain = 'widgets.ign.com';
+    </script>
+
+	</div>
+</div>
+</div>
+<div class="postShell">
+    <div class="ad_placement ad_leaderboard noprint">
+        <div id="sugarad-s728x90" class="sugarad"><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('sugarad-s728x90');});</script></div>    </div>
+
+
+    </div>
+
+
+<div id="ignFooter-container" class="noprint">
+    <footer>
+        <div class="ignFooter-content">
+                            <div class="ignFooter-topRow">
+                                        <div class="ignFooter-columnLeft">
+                        <ul class='ignFooter-linkList '>
+<li class="first">IGN.com:</li>
+<li><a href="http://www.ign.com/wikis/ign/Content_Team">Content Team</a></li>
+<li><a href="http://www.ign.com/wikis/ign/Standards_and_Practices">Standards &amp; Practices</a></li>
+<li><a href="http://www.ign.com/support/editorial?category=newstips">Send Us News</a></li>
+<li><a href="https://mail.ign.com/subscriptions/ign.php">Sign Up for Email Updates</a></li>
+<li><a href="http://www.ign.com/sitemaps">Site Map</a></li>
+</ul>
+                        <ul class='ignFooter-linkList '>
+<li class="first">International:</li>
+<li><a href="http://world.ign.com">IGN World Map</a></li>
+<li><a href="http://www.ign.com/?setccpref=ZA">Africa</a></li>
+<li><a href="http://www.ign.com/?setccpref=AP">Asia Pacific</a></li>
+<li><a href="http://au.ign.com/?setccpref=AU">Australia</a></li>
+<li><a href="http://www.ign.com/?setccpref=NL">Benelux</a></li>
+<li><a href="http://ca.ign.com/?setccpref=CA">Canada</a></li>
+<li><a href="http://www.ign.com/?setccpref=DK">Denmark</a></li>
+<li><a href="http://www.ign.com/?setccpref=FI">Finland</a></li>
+<li><a href="http://www.ign.com/?setccpref=DE">Germany</a></li>
+<li><a href="http://www.ign.com/?setccpref=GR">Greece</a></li>
+<li><a href="http://www.ign.com/?setccpref=IN">India</a></li>
+<li><a href="http://ie.ign.com/?setccpref=IE">Ireland</a></li>
+<li><a href="http://www.ign.com/?setccpref=IL">Israel</a></li>
+<li><a href="http://www.ign.com/?setccpref=IT">Italy</a></li>
+<li><a href="http://www.ign.com/?setccpref=LA">Latin America</a></li>
+<li><a href="http://www.ign.com/?setccpref=ME">Middle East</a></li>
+<li><a href="http://www.ign.com/?setccpref=NO">Norway</a></li>
+<li><a href="http://www.ign.com/?setccpref=PT">Portugal</a></li>
+<li><a href="http://www.ign.com/?setccpref=RU">Russia</a></li>
+<li><a href="http://www.ign.com/?setccpref=ES">Spain</a></li>
+<li><a href="http://www.ign.com/?setccpref=SE">Sweden</a></li>
+<li><a href="http://www.ign.com/?setccpref=TR">Turkey</a></li>
+<li><a href="http://uk.ign.com/?setccpref=UK">United Kingdom</a></li>
+<li><a href="http://www.ign.com/?setccpref=US">United States</a></li>
+</ul>
+                    </div>
+                                        <div class="ignFooter-columnRight">
+                                                    <div class="ignFooter-newsletterSignup">
+                                <iframe src="http://widgets.ign.com/global/page/newslettersignup.html?code=IGN%20NEWS&layout=ign-footer" width="329" height="65" frameborder="0" scrolling="no"></iframe>
+                            </div>
+                                            </div>
+                </div>
+                        <div class="ignFooter-bottomRow ignFooter-bottomRowCompact">
+                        <div class="ignFooter-column">
+                <a href="http://www.ziffdavis.com/" class="ignFooter-logo"><img src="//www.ziffdavis.com/images/zdHeaderLogo.png" height="26" alt="Ziff Davis" title="Ziff Davis"/></a>
+                <div id="7d99a2cb-54dd-4f8d-b159-40356cb6a402" class="ignFooter-truste">                    <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Ziff-Davis,-LLC/asc?rid=7d99a2cb-54dd-4f8d-b159-40356cb6a402"></script>
+                    <a href="//privacy.truste.com/privacy-seal/Ziff-Davis,-LLC/validation?rid=f216ea74-e272-46f4-b2a1-0db430ecb6b4" title="TRUSTe European Safe Harbor certification" target="_blank">
+                        <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Ziff-Davis,-LLC/seal?rid=c901611a-d2c3-4eda-9dbb-906ba9546285" alt="TRUSTe European Safe Harbor certification"/></a>
+                </div>
+                <ul class='ignFooter-linkList '>
+<li><a href="http://www.ign.com/">IGN</a></li>
+<li><a href="http://www.askmen.com/">AskMen</a></li>
+<li><a href="http://www.pcmag.com/">PCMag</a></li>
+<li><a href="http://www.computershopper.com/">Computer Shopper</a></li>
+<li><a href="http://www.extremetech.com/">ExtremeTech</a></li>
+<li><a href="http://www.geek.com/">Geek</a></li>
+<li><a href="http://www.toolbox.com/">Toolbox</a></li>
+</ul>
+                            </div>
+                        <div class="ignFooter-column">
+                <p>Copyright 1996-2015 Ziff Davis, LLC
+                    <span style="padding-left:10px;">An <a href="http://corp.ign.com/">IGN Entertainment</a> Games site</span>                </p>
+                <ul class='ignFooter-linkList '>
+<li><a href="http://corp.ign.com/about">About Us</a></li>
+<li><a href="http://corp.ign.com/">Advertise</a></li>
+<li><a href="http://www.ign.com/support/editorial?category=feedback">Contact Us</a></li>
+<li><a href="http://corp.ign.com/press">Press</a></li>
+<li><a href="http://corp.ign.com/careers">Careers</a></li>
+<li><a class="ignFooter-linkRss" href="http://corp.ign.com/feeds" title="Subscribe to RSS Feeds">RSS Feeds</a></li>
+</ul>
+<ul class='ignFooter-linkList showAdchoices'>
+<li><a href="http://support.ign.com/">Support</a></li>
+<li><a href="http://corp.ign.com/policies/privacy">Privacy Policy</a></li>
+<li><a class="showBorder" href="http://corp.ign.com/policies/user-agreement">User Agreement</a></li>
+</ul>
+<script type="text/javascript" language="javascript">
+/* jQuery selectors for the two footers where this code runs:
+ *
+ *  (New) GlobalFooter widget : footer#ign-footer and nav.links
+ *  (Old) Footer widget       : #ignFooter-container and .showAdchoices
+ */
+$('footer#ign-footer, #ignFooter-container').find('nav.links, .showAdchoices')
+    .append('<a id=\"_bapw-link\" class=\"SiteFooterNavItem\" style=\"cursor:pointer !important; display:none;\"><img id=\"_bapw-icon\" style=\"display:inline !important;border:0px!important;outline:0px!important;vertical-align:middle !important\"\/> <span style=\"vertical-align:middle !important\">AdChoices<\/span><\/a>')
+    .append('<a id=\"_bapw-link\" href=\"#\" target=\"_blank\" style=\"text-decoration:none !important; display:none;\"><span style=\"vertical-align:middle !important\">Cookie Consent<\/span><\/a>');
+
+    //Call out to Akamai and lookup the country
+    var NOTICE_ID;
+    var callback = { 'done' : false };
+
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/geo/c.js';
+    s.async = false;
+
+    s.onreadystatechange = s.onload = function () {
+
+    var state = s.readyState;
+
+    if (!callback.done && (!state || /loaded|complete/.test(state))) {
+        callback.done = true;
+        if(window._bap_p_country === 'at'){
+                 NOTICE_ID = showImplied(2757);
+         }else if(window._bap_p_country === 'be'){
+                NOTICE_ID = showImplied(2758);
+        }else if(window._bap_p_country === 'bg'){
+                NOTICE_ID = showImplied(2759); 
+        }else if(window._bap_p_country === 'ca'){
+                NOTICE_ID = showInPage(2718);
+        }else if(window._bap_p_country === 'ch'){
+                NOTICE_ID = showImplied(2792);
+        }else if(window._bap_p_country === 'cz'){
+                NOTICE_ID = showImplied(2760);
+        }else if(window._bap_p_country === 'de'){
+                NOTICE_ID = showImplied(2764);
+        }else if(window._bap_p_country === 'ee'){
+                NOTICE_ID = showImplied(2761);
+        }else if(window._bap_p_country === 'es'){
+                NOTICE_ID = showImplied(2790);
+        }else if(window._bap_p_country === 'fi'){      
+                NOTICE_ID = showImplied(2762);
+        }else if(window._bap_p_country === 'fr'){
+                NOTICE_ID = showImplied(2763);
+        }else if(window._bap_p_country === 'gb'){
+                NOTICE_ID = showImplied(2753);
+        }else if(window._bap_p_country === 'gr'){
+                NOTICE_ID = showImplied(2765);
+        }else if(window._bap_p_country === 'hu'){      
+                NOTICE_ID = showImplied(2766);
+         }else if(window._bap_p_country === 'ie'){
+                NOTICE_ID = showImplied(2767);
+         }else if(window._bap_p_country === 'it'){
+                NOTICE_ID = showImplied(2778);
+        }else if(window._bap_p_country === 'lt'){      
+                NOTICE_ID = showImplied(2780);
+        }else if(window._bap_p_country === 'lu'){
+                NOTICE_ID = showImplied(2781);
+        }else if(window._bap_p_country === 'lv'){
+                NOTICE_ID = showImplied(2779);
+        }else if(window._bap_p_country === 'nl'){
+                NOTICE_ID = showImplied(2782);
+        }else if(window._bap_p_country === 'no'){
+                NOTICE_ID = showImplied(2783);
+        }else if(window._bap_p_country === 'pl'){
+                NOTICE_ID = showImplied(2785);
+        }else if(window._bap_p_country === 'pt'){
+            NOTICE_ID = showImplied(2786);
+        }else if(window._bap_p_country === 'ro'){
+                NOTICE_ID = showImplied(2787);
+        }else if(window._bap_p_country === 'se'){
+                NOTICE_ID = showImplied(2791);
+        }else if(window._bap_p_country === 'si'){
+                NOTICE_ID = showImplied(2789);
+        }else if(window._bap_p_country === 'sk'){
+                NOTICE_ID = showImplied(2788);
+        }else if (window._bap_p_country === 'us'){ 
+                NOTICE_ID = showInPage(2752);
+        }else{
+            NOTICE_ID = showInPage(2752);   
+        }
+    }
+};
+
+// use body if available. more safe in IE
+(document.body || head).appendChild(s);
+
+
+function showInPage(NOTICE_ID){
+  document.getElementById("_bapw-link").style.display = 'inline';
+  (function(){
+    var e=document,b,a=(e.location.protocol=="https:" ? "https" : "http"),c=(a=="https" ? "https://info.evidon.com/c/betrad/pub/" : "http://cdn.betrad.com/pub/");
+    e.getElementById("_bapw-icon").src= c + "icon1.png";
+    e.getElementById("_bapw-link").onclick = function() { 
+        var f=this;
+        function d(i,l){
+            var j=e.getElementsByTagName("head")[0] || e.documentElement, h=false, g=e.createElement("script");
+            function k(){
+                g.onload=g.onreadystatechange=null;
+                j.removeChild(g);
+                l()
+            }
+            g.src=i;
+            g.onreadystatechange=function() { 
+                if(!h && (this.readyState == "loaded" || this.readyState=="complete")){ 
+                    h=true;
+                    k()
+                }
+            };
+            g.onload=k;
+            j.insertBefore(g,j.firstChild)
+        }
+        this.onclick="return false";
+        d(a + "://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js", function() {
+            d(c + "pub1.js", function(){
+                BAPW.i(f, { pid:NOTICE_ID,ocid:660},false)
+            })
+        });
+        return false
+    };
+    b=e.createElement("img");
+    b.src= a + "://l.betrad.com/pub/p.gif?pid=" + NOTICE_ID + "&ocid=660&ii=1&r=" + Math.random();
+    b.className = "adchoices-pixel";
+    b.height="1";
+    b.width="1";
+    e.body.appendChild(b);
+  })();
+}
+
+
+function showImplied(NOTICE_ID){
+  document.getElementById("_bapw-link").style.display = 'inline';
+  (function() { 
+    var ev = document.createElement('script');
+    ev.type = 'text/javascript'; 
+    ev.async = true; 
+    ev.setAttribute('data-ev-tag-pid',NOTICE_ID);
+    ev.setAttribute('data-ev-tag-ocid', 660);
+    ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ev, s);
+  })();
+
+  (function() { var hn = document.createElement('script');
+    hn.type = 'text/javascript';
+    hn.async = true;
+    hn.setAttribute('data-ev-hover-pid',NOTICE_ID);
+    hn.setAttribute('data-ev-hover-ocid', 660);
+    hn.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/geo/h1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hn, s);
+  })();
+}
+
+
+</script>
+            </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+
+<script type="text/javascript" src="http://oystatic.ignimgs.com/cache/js/f1/b5/f1b556ce2b4f9dbac28f653ab7d6b476.js"></script>
+<script type="text/javascript" src="http://static.ziffprod.com/cse/js/4.2.0/zdcse.min.js?referrer=www.ign.com"></script>
+
+
+<script>igndrones.async.push(function() {igndrones.fireBottom();});</script>
+
+<!-- Begin BlueKai Tag -->
+<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
+<script type="text/javascript" src="http://tags.bkrtx.com/js/bk-coretag.js"></script>
+<script type="text/javascript" src="http://cdn.static.zdbb.net/js/page-segments.js"></script>
+<script type="text/javascript">
+(function() {
+       // Collect page JS variable
+       bk_addPageCtx("authors", (typeof(authors)!=='undefined')? authors:'');
+       bk_addPageCtx("channel", (typeof(channel_id)!=='undefined')? channel_id:'');
+       if(typeof(_sf_async_config) !== 'undefined')
+       {
+        	bk_addPageCtx("sections", (typeof(_sf_async_config.sections)!=='undefined')? _sf_async_config.sections:'');
+	        bk_addPageCtx("path", (typeof(_sf_async_config.path)!=='undefined')? _sf_async_config.path:'');
+       }
+	zdbb.gurgle.get_segments(document.location, function(segments) {
+		for (var i = 0; i < segments.length; i++) {
+			bk_addPageCtx("bbseg", segments[i]);
+		}
+               bk_doJSTag(20200, 10);
+	});
+}) ();
+</script>
+<!-- End BlueKai Tag -->
+
+</body>
+</html>
+
+<!-- View Generation: 164ms - 36.25MB - 134 - 2015-01-31 11:34:47 PST -->
